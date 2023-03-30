@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\bin\Debug\LinkList.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\bin\Debug\LinkList.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\bin\Debug\LinkList.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\obj\Debug\SinglyLinkListCLI.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\obj\Debug\SinglyLinkListCLI.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\obj\Debug\SinglyLinkListCLI.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\obj\Debug\LinkList.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\LinkList\LinkList\obj\Debug\LinkList.pdb

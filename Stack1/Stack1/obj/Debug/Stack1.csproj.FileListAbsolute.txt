@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\bin\Debug\Stack1.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\bin\Debug\Stack1.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\bin\Debug\Stack1.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\obj\Debug\Stack1.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\obj\Debug\Stack1.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\obj\Debug\Stack1.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\obj\Debug\Stack1.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\Stack1\Stack1\obj\Debug\Stack1.pdb

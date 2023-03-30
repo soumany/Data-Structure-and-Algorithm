@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\bin\Debug\GCDAlgo.exe.config
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\bin\Debug\GCDAlgo.exe
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\bin\Debug\GCDAlgo.pdb
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\obj\Debug\GCDAlgo.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\obj\Debug\GCDAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\obj\Debug\GCDAlgo.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\obj\Debug\GCDAlgo.exe
+C:\Users\U-ser\Documents\Year 2 Rupp\GCDAlgo\GCDAlgo\obj\Debug\GCDAlgo.pdb

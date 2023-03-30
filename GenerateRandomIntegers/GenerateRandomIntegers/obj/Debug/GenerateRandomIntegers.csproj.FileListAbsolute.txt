@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\bin\Debug\GenerateRandomIntegers.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\bin\Debug\GenerateRandomIntegers.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\bin\Debug\GenerateRandomIntegers.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\obj\Debug\GenerateRandomIntegers.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\obj\Debug\GenerateRandomIntegers.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\obj\Debug\GenerateRandomIntegers.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\obj\Debug\GenerateRandomIntegers.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\GenerateRandomIntegers\GenerateRandomIntegers\obj\Debug\GenerateRandomIntegers.pdb

@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\bin\Debug\BubbleSort.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\bin\Debug\BubbleSort.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\obj\Debug\BubbleSort.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\BubbleSort\BubbleSort\obj\Debug\BubbleSort.pdb

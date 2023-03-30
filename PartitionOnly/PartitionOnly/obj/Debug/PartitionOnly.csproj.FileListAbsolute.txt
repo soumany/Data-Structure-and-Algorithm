@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\bin\Debug\PartitionOnly.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\bin\Debug\PartitionOnly.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\bin\Debug\PartitionOnly.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\obj\Debug\PartitionOnly.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\obj\Debug\PartitionOnly.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\obj\Debug\PartitionOnly.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\obj\Debug\PartitionOnly.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\PartitionOnly\PartitionOnly\obj\Debug\PartitionOnly.pdb

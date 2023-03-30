@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\bin\Debug\BinarySearchAlgo.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\bin\Debug\BinarySearchAlgo.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\bin\Debug\BinarySearchAlgo.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\obj\Debug\BinarySearchAlgo.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\obj\Debug\BinarySearchAlgo.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\obj\Debug\BinarySearchAlgo.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\obj\Debug\BinarySearchAlgo.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\BinarySearchAlgo\BinarySearchAlgo\obj\Debug\BinarySearchAlgo.pdb

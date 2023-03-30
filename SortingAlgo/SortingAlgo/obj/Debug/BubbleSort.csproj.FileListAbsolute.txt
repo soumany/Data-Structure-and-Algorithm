@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\bin\Debug\SortingAlgo.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\obj\Debug\BubbleSort.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\obj\Debug\BubbleSort.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\obj\Debug\BubbleSort.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\SortingAlgo\SortingAlgo\obj\Debug\SortingAlgo.pdb

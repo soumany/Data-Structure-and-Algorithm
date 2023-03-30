@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\bin\Debug\ArrayReversal.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\ArrayReversal\ArrayReversal\obj\Debug\ArrayReversal.pdb

@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\RecursiveFactorial\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb

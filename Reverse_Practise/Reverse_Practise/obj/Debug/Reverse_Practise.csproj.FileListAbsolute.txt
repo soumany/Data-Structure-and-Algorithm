@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\bin\Debug\Reverse_Practise.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\bin\Debug\Reverse_Practise.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\bin\Debug\Reverse_Practise.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\obj\Debug\Reverse_Practise.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\obj\Debug\Reverse_Practise.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\obj\Debug\Reverse_Practise.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\obj\Debug\Reverse_Practise.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\Reverse_Practise\Reverse_Practise\obj\Debug\Reverse_Practise.pdb
