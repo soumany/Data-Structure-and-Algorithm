@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\bin\Debug\Generic_Stack.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\bin\Debug\Generic_Stack.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\bin\Debug\Generic_Stack.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\obj\Debug\Generic_Stack.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\obj\Debug\Generic_Stack.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\obj\Debug\Generic_Stack.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\obj\Debug\Generic_Stack.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Generic_Stack\Generic_Stack\obj\Debug\Generic_Stack.pdb
