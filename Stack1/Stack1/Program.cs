@@ -44,8 +44,6 @@ namespace Stack1
                 {
                     TopCell.pop(TopCell);
 
-                 
-
 
                 }
                 else if (x == 3)

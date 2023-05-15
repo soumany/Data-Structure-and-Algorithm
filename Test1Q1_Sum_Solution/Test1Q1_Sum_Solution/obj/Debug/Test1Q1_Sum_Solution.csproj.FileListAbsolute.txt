@@ -1,0 +1,8 @@
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\bin\Debug\Test1Q1_Sum_Solution.exe.config
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\bin\Debug\Test1Q1_Sum_Solution.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\bin\Debug\Test1Q1_Sum_Solution.pdb
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\obj\Debug\Test1Q1_Sum_Solution.csproj.AssemblyReference.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\obj\Debug\Test1Q1_Sum_Solution.csproj.SuggestedBindingRedirects.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\obj\Debug\Test1Q1_Sum_Solution.csproj.CoreCompileInputs.cache
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\obj\Debug\Test1Q1_Sum_Solution.exe
+C:\Users\U-ser\Documents\E2STEM_Y2\C#\Test1Q1_Sum_Solution\Test1Q1_Sum_Solution\obj\Debug\Test1Q1_Sum_Solution.pdb

@@ -20,25 +20,33 @@ namespace Stack1
         }
 
         public void push(string newName)
-        { //tp insert a newCell as the first node
+        {
             PersonCell newCell = new PersonCell();
             newCell.Name = newName;
-            newCell.Next = this.Next;//this.Next will become 2nd cell
-            this.Next = newCell; //make this.Next point to newCell
-
+            newCell.Next = this.Next;
+            this.Next = newCell;
         }
         
         public void pop(PersonCell TopCell)
         {//assign the address in the next property of the first cell to the next property of the top cell. 
-            PersonCell FirstCell = TopCell.Next; //FirstCell is given the address of TopCel.Next that is the address of the first cell of the linked list
+            PersonCell FirstCell = TopCell.Next;
             TopCell.Next = FirstCell.Next;
 
         }
 
         public void peek(PersonCell TopCell)
         {
-            Console.WriteLine("Top Cell is : " + TopCell.Next.Name);
+            if (TopCell.Next == null)
+            {
+                Console.WriteLine("Stack is empty");
+            }
+            else
+            {
+                Console.WriteLine("Top Cell is : " + TopCell.Next.Name);
+            }
         }
+
+        
     }
 
 }
